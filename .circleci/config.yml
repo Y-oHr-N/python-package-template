@@ -15,4 +15,4 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-           python setup.py test
+            python setup.py test
