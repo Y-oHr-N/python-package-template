@@ -1,8 +1,8 @@
 # python-package-template
 
-[![CircleCI](https://circleci.com/gh/Y-oHr-N/python-package-template.svg?style=svg)](https://circleci.com/gh/Y-oHr-N/python-package-template)
+[![CircleCI](https://img.shields.io/circleci/build/github/Y-oHr-N/python-package-template)](https://circleci.com/gh/Y-oHr-N/python-package-template)
 
-A template for Python packages
+A template for Python packages.
 
 ## Examples
 
