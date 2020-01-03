@@ -1,3 +1,10 @@
 """Awesome package."""
 
-__version__ = '0.0.0'
+from pkg_resources import DistributionNotFound
+from pkg_resources import get_distribution
+
+try:
+    distribution = get_distribution(__name__)
+    __version__ = distribution.version
+except DistributionNotFound:
+    pass
