@@ -1,6 +1,6 @@
 # python-package-template
 
-[![CircleCI](https://img.shields.io/circleci/build/github/Y-oHr-N/python-package-template)](https://circleci.com/gh/Y-oHr-N/python-package-template)
+![Python package](https://github.com/Y-oHr-N/python-package-template/workflows/Python%20package/badge.svg?branch=master)
 
 A template for Python packages.
 
