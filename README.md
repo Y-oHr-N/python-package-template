@@ -21,5 +21,5 @@ pip install git+https://github.com/Y-oHr-N/python-package-template.git
 ## Testing
 
 ```
-python setup.py test
+tox
 ```
